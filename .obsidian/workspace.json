@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Hi.md",
+                "file": "Obsidian/Hi hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hi"
+              "title": "Hi hello"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "480e96eb1c3db499",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Obsidian/Hi hello.md",
     "Obsidian/Hi.md",
     "Obsidian",
     "Obsidian/Untitled 1.base",
