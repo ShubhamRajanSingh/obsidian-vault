@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Hi hello.md",
+                "file": "Knowledge/System Design/LLD/xy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hi hello"
+              "title": "xy"
             }
           }
         ]
@@ -156,19 +156,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c006c1c06efab5ba",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Obsidian/Hi hello.md"
+    "Knowledge/DSA/Questions/Sliding Window Problem.md",
+    "Obsidian/Hi hello.md",
+    "Untitled.md"
   ]
 }
