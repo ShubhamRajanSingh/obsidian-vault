@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/HLD/Redis/Redis Overview.md",
+                "file": "Knowledge/DSA/Notes/Competitive Coding 10466e6a92c980d488c5e2c6540de5c0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis Overview"
+              "title": "Competitive Coding 10466e6a92c980d488c5e2c6540de5c0"
             }
           }
         ]
@@ -186,9 +186,12 @@
   },
   "active": "480e96eb1c3db499",
   "lastOpenFiles": [
+    "Knowledge/DSA/Notes/Screenshot_(3).png",
+    "Knowledge/System Design/HLD/System design 10466e6a92c980e092b9dd424a544ba8.md",
+    "Knowledge/DSA/Notes/Competitive Coding 10466e6a92c980d488c5e2c6540de5c0.md",
+    "Knowledge/System Design/HLD/Redis/Redis Overview.md",
     "Knowledge/System Design/HLD/Redis/Redis Internals & Use Cases.md",
     "Knowledge/DSA/Questions/UnSolved.md",
-    "Knowledge/System Design/HLD/Redis/Redis Overview.md",
     "Knowledge/System Design/HLD/Redis",
     "Knowledge/System Design/LLD/xy.md",
     "Knowledge/DSA/Questions/Sliding Window Problem.md",
