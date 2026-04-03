@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/LLD/Untitled.md",
+                "file": "Knowledge/System Design/LLD/xy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "xy"
             }
           }
         ]
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3476d994cdee37c",
+  "active": "480e96eb1c3db499",
   "lastOpenFiles": [
     "Projects",
     "Daily",
@@ -192,7 +192,7 @@
     "Knowledge/Miscellenious",
     "Knowledge/System Design/HLD",
     "Obsidian/Hi hello.md",
-    "Knowledge/System Design/LLD/Untitled.md",
+    "Knowledge/System Design/LLD/xy.md",
     "Knowledge/System Design/LLD",
     "Knowledge/System Design",
     "Knowledge/DSA/Notes",
