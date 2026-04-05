@@ -11,14 +11,10 @@
             "id": "c006c1c06efab5ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/System Design/LLD/xy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "xy"
+              "title": "New tab"
             }
           }
         ]
