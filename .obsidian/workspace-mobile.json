@@ -11,10 +11,10 @@
             "id": "c006c1c06efab5ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -146,9 +146,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "d80efe9f37141b45",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +174,7 @@
   },
   "active": "c006c1c06efab5ba",
   "lastOpenFiles": [
+    "Knowledge/DSA/Notes/Competitive Coding/Catalan Numbers.md",
     "Knowledge/DSA/Questions/Sliding Window Problem.md",
     "Obsidian/Hi hello.md",
     "Untitled.md"
