@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/DSA/Questions/Coin Change.md",
+                "file": "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Prototype.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coin Change"
+              "title": "Prototype"
             }
           }
         ]
@@ -186,9 +186,24 @@
   },
   "active": "480e96eb1c3db499",
   "lastOpenFiles": [
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Singelton.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Prototype.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/builder_pattern_java_haskell.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/factory_pattern_java_haskell.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/abstract_factory_pattern_java_haskell.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Lets Study about creational Design Pattern,  we will study, Factory, Abstract Factory, Builder, Singelton, Prototype.md",
+    "SDE2 Prep/HLD/HLD Plan.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern",
+    "Knowledge/System Design/LLD/Design Patterns",
+    "Knowledge/System Design/HLD/System design 10466e6a92c980e092b9dd424a544ba8.md",
+    "SDE2 Prep/LLD/LLD Plan.md",
+    "Knowledge/_Vault Guide.md",
+    "Knowledge/System Design/Templates/HLD Template.md",
+    "Knowledge/System Design/Systems/URL Shortener.md",
+    "Knowledge/System Design/Components/Load Balancer.md",
+    "Knowledge/DSA/Questions/Coin Change.md",
     "Knowledge/DSA/Questions/3Sum.md",
     "Knowledge/DSA/Questions/Coin Change II.md",
-    "Knowledge/DSA/Questions/Coin Change.md",
     "Knowledge/DSA/Questions/Sliding Window Problem.md",
     "Knowledge/DSA/Questions/Rotate Linked List.md",
     "Knowledge/DSA/Questions/N Meetings in One Room.md",
@@ -196,32 +211,17 @@
     "Knowledge/DSA/Questions/Core Greedy & Array Problems.md",
     "Knowledge/DSA/Questions/Clone Linked List with Random Pointer.md",
     "Knowledge/DSA/Questions/Trapping Rainwater.md",
-    "Knowledge/_Vault Guide.md",
-    "Knowledge/System Design/Components/Load Balancer.md",
     "Knowledge/System Design/Components/Database Sharding.md",
     "Knowledge/System Design/Systems/Ride Sharing.md",
     "Knowledge/System Design/Systems/Video Streaming.md",
-    "Knowledge/System Design/Systems/News Feed.md",
-    "Knowledge/System Design/Systems/Chat System.md",
-    "Knowledge/System Design/Systems/URL Shortener.md",
     "Knowledge/System Design/Systems",
-    "Knowledge/System Design/Templates/HLD Template.md",
     "Knowledge/System Design/Templates",
-    "Knowledge/System Design/Components/Message Queue.md",
-    "Knowledge/System Design/Components/CDN.md",
-    "Knowledge/System Design/Components/Caching.md",
     "Knowledge/System Design/Components",
-    "Knowledge/System Design/index.md",
-    "Knowledge/System Design/HLD/System design 10466e6a92c980e092b9dd424a544ba8.md",
-    "Knowledge/DSA/Revision/DSA Revision System.md",
     "Knowledge/DSA/Notes/Screenshot_(3).png",
-    "Knowledge/DSA/Notes/Competitive Coding/DP/LIS.md",
     "Knowledge/DSA/Revision",
     "Knowledge/DSA/Notes/Competitive Coding/Strings",
     "Knowledge/DSA/Notes/Competitive Coding/Heap",
     "Knowledge/DSA/Notes/Competitive Coding/Math",
-    "Knowledge/DSA/Notes/Competitive Coding/Arrays",
-    "Knowledge/DSA/Notes/Competitive Coding/DP",
-    "Knowledge/DSA/Notes/Competitive Coding"
+    "Knowledge/DSA/Notes/Competitive Coding/Arrays"
   ]
 }
