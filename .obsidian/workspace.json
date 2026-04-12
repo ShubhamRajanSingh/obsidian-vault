@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Prototype.md",
+                "file": "SDE2 Prep/LLD/LLD Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prototype"
+              "title": "LLD Plan"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "480e96eb1c3db499",
   "lastOpenFiles": [
-    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Singelton.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Prototype.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Singelton.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/builder_pattern_java_haskell.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/factory_pattern_java_haskell.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/abstract_factory_pattern_java_haskell.md",
