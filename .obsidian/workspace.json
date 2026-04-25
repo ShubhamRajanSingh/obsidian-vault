@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "N- Queen"
             }
+          },
+          {
+            "id": "1e0af4c1f37bc704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/DSA/Questions/Median of a sorted array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Median of a sorted array"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "480e96eb1c3db499",
+  "active": "1e0af4c1f37bc704",
   "lastOpenFiles": [
-    "SDE2 Prep/LLD/LLD Plan.md",
+    "Knowledge/DSA/Questions/Minimum Platforms Required.md",
+    "Knowledge/DSA/Questions/Core Greedy & Array Problems.md",
+    "Knowledge/DSA/Questions/Median of a sorted array.md",
     "Knowledge/DSA/Questions/N- Queen.md",
+    "SDE2 Prep/LLD/LLD Plan.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Prototype.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/Singelton.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/builder_pattern_java_haskell.md",
@@ -208,12 +226,9 @@
     "Knowledge/DSA/Questions/Sliding Window Problem.md",
     "Knowledge/DSA/Questions/Rotate Linked List.md",
     "Knowledge/DSA/Questions/N Meetings in One Room.md",
-    "Knowledge/DSA/Questions/Minimum Platforms Required.md",
-    "Knowledge/DSA/Questions/Core Greedy & Array Problems.md",
     "Knowledge/DSA/Questions/Clone Linked List with Random Pointer.md",
     "Knowledge/DSA/Questions/Trapping Rainwater.md",
     "Knowledge/System Design/Components/Database Sharding.md",
-    "Knowledge/System Design/Systems/Ride Sharing.md",
     "Knowledge/System Design/Systems",
     "Knowledge/System Design/Templates",
     "Knowledge/System Design/Components",
