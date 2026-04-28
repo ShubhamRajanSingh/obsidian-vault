@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Find Median from Data Stream.md",
+                "file": "Knowledge/DSA/Questions/Find Median from Data Stream.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,9 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9755613f5e397369",
+  "active": "b3476d994cdee37c",
   "lastOpenFiles": [
-    "Find Median from Data Stream.md",
+    "Knowledge/DSA/Questions/Find Median from Data Stream.md",
     "Knowledge/DSA/Questions/Kth element in two sorted arrays.md",
     "Knowledge/DSA/Questions/Allocate Minimum number of Pages.md",
     "Knowledge/DSA/Questions/Median of a sorted array.md",
