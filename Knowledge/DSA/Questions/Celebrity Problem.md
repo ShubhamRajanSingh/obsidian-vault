@@ -308,8 +308,8 @@ Return 2 ✅
 
 ## Related Problems
 
-|Problem|Relationship|
-|---|---|
-|LC 277 — Find the Celebrity|Exact problem with `knows()` API|
-|LC 997 — Find the Town Judge|Same concept on a directed graph (in-degree = n-1, out-degree = 0)|
-|LC 1557 — Minimum Number of Vertices|Graph reachability|
+| Problem                              | Relationship                                                       |
+| ------------------------------------ | ------------------------------------------------------------------ |
+| LC 277 — Find the Celebrity          | Exact problem with `knows()` API                                   |
+| LC 997 — Find the Town Judge         | Same concept on a directed graph (in-degree = n-1, out-degree = 0) |
+| LC 1557 — Minimum Number of Vertices | Graph reachability                                                 |
