@@ -508,11 +508,11 @@ This reduction works because:
 
 ## Related Problems
 
-|#|Problem|Relationship|
-|---|---|---|
-|LC 1143|Longest Common Subsequence|Foundation for LPS reduction|
-|LC 516|Longest Palindromic Subsequence|This problem|
-|LC 5|Longest Palindromic Substring|Contiguous version (different DP)|
-|LC 1312|Minimum Insertions to Make String Palindrome|`n - LPS(s)`|
-|LC 583|Delete Operation for Two Strings|`m + n - 2 × LCS(s1, s2)`|
-|LC 72|Edit Distance|Classic interval/2D DP on strings|
+| #       | Problem                                      | Relationship                      |
+| ------- | -------------------------------------------- | --------------------------------- |
+| LC 1143 | Longest Common Subsequence                   | Foundation for LPS reduction      |
+| LC 516  | Longest Palindromic Subsequence              | This problem                      |
+| LC 5    | Longest Palindromic Substring                | Contiguous version (different DP) |
+| LC 1312 | Minimum Insertions to Make String Palindrome | `n - LPS(s)`                      |
+| LC 583  | Delete Operation for Two Strings             | `m + n - 2 × LCS(s1, s2)`         |
+| LC 72   | Edit Distance                                | Classic interval/2D DP on strings |
