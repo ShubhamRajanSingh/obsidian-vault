@@ -178,8 +178,9 @@
   },
   "active": "c006c1c06efab5ba",
   "lastOpenFiles": [
-    "Knowledge/System Design/LLD/LLD_SDE2_Study_Plan.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/abstract_factory_pattern_java_haskell.md",
     "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
+    "Knowledge/System Design/LLD/LLD_SDE2_Study_Plan.md",
     "Knowledge/System Design/LLD/LLD Plan.md",
     "Knowledge/DSA/Questions/Pow(x, n).md",
     "Knowledge/DSA/Notes/LCS and LPS.md",
@@ -202,7 +203,6 @@
     "Knowledge/DSA/Questions/Spiral Matrix.md",
     "Knowledge/DSA/Questions/Sort Colors.md",
     "Knowledge/DSA/Questions/Set Matrix Zeroes.md",
-    "Knowledge/DSA/Questions/Search in Rotated Sorted Array.md",
-    "Knowledge/DSA/Questions/Search a 2D Matrix.md"
+    "Knowledge/DSA/Questions/Search in Rotated Sorted Array.md"
   ]
 }
