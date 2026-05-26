@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
+                "file": "Knowledge/DSA/Notes/Competitive Coding/Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HLD_SDE2_Study_Plan"
+              "title": "Maths"
             }
           }
         ]
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b336a3f2d6f62cd2",
@@ -176,11 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c006c1c06efab5ba",
+  "active": "295280c69000c285",
   "lastOpenFiles": [
     "Knowledge/System Design/LLD/UML Class Diagrams.md",
-    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/abstract_factory_pattern_java_haskell.md",
+    "Knowledge/DSA/Notes/Competitive Coding/Maths.md",
+    "Untitled",
+    "Knowledge/DSA/Notes/Competitive Coding 10466e6a92c980d488c5e2c6540de5c0.md",
     "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
+    "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern/abstract_factory_pattern_java_haskell.md",
     "Knowledge/System Design/LLD/LLD_SDE2_Study_Plan.md",
     "Knowledge/System Design/LLD/LLD Plan.md",
     "Knowledge/DSA/Questions/Pow(x, n).md",
@@ -201,8 +204,6 @@
     "Knowledge/DSA/Questions/Sum Root to Leaf Numbers.md",
     "Knowledge/DSA/Questions/Subsets.md",
     "Knowledge/DSA/Questions/String to Integer (atoi).md",
-    "Knowledge/DSA/Questions/Spiral Matrix.md",
-    "Knowledge/DSA/Questions/Sort Colors.md",
-    "Knowledge/DSA/Questions/Set Matrix Zeroes.md"
+    "Knowledge/DSA/Questions/Spiral Matrix.md"
   ]
 }
