@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/LLD/UML Class Diagrams.md",
+                "file": "Knowledge/DSA/Notes/Competitive Coding 10466e6a92c980d488c5e2c6540de5c0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML Class Diagrams"
+              "title": "Competitive Coding 10466e6a92c980d488c5e2c6540de5c0"
             }
           }
         ],
@@ -106,10 +106,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Implement Max Heap",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -239,8 +239,21 @@
   },
   "active": "9755613f5e397369",
   "lastOpenFiles": [
-    "Knowledge/System Design/Systems/URL Shortener.md",
+    "Knowledge/DSA/Questions/LFU.md",
+    "Knowledge/DSA/Questions/Aggressive Cows.md",
+    "Knowledge/DSA/Questions/Allocate Minimum number of Pages.md",
+    "Knowledge/DSA/Questions/Kth element in two sorted arrays.md",
+    "Knowledge/DSA/Questions/Median of Two sorted array.md",
+    "Knowledge/DSA/Questions/Median of Two Sorted Arrays.md",
+    "Knowledge/DSA/Questions/Untitled.md",
+    "Knowledge/DSA/Questions/Median of Row Wise Sorted Matrix.md",
+    "Knowledge/DSA/Questions/Sudoku Solver.md",
+    "Knowledge/DSA/Questions/N- Queen.md",
     "Knowledge/System Design/LLD/UML Class Diagrams.md",
+    "Knowledge/System Design/LLD/Study.md",
+    "Knowledge/System Design/HLD/Study.md",
+    "Knowledge/DSA/Notes/Competitive Coding/Maths.md",
+    "Knowledge/System Design/Systems/URL Shortener.md",
     "SDE2 Prep/HLD/HLD Plan.md",
     "Knowledge/System Design/LLD/LLD_SDE2_Study_Plan.md",
     "Knowledge/System Design/LLD/LLD Plan.md",
@@ -252,19 +265,6 @@
     "Knowledge/DSA/Notes/Floyd Warshall Algorithm.md",
     "Knowledge/DSA/Notes/Bellman Ford Algorithm.md",
     "Knowledge/DSA/Questions/Find Duplicate File in System.md",
-    "Knowledge/DSA/Questions/Check if Number Has Equal Digit Count and Digit Value.md",
-    "Knowledge/DSA/Questions/Percentage of Letter in String.md",
-    "Knowledge/DSA/Questions/Greatest English Letter in Upper and Lower Case.md",
-    "Knowledge/DSA/Questions/Calculate Amount Paid in Taxes.md",
-    "Knowledge/DSA/Questions/Find Resultant Array After Removing Anagrams.md",
-    "Knowledge/DSA/Questions/Largest 3 Same Digit Number in String.md",
-    "Knowledge/DSA/Questions/Intersection of Multiple Arrays.md",
-    "Knowledge/DSA/Questions/Find Closest Number to Zero Variant.md",
-    "Knowledge/DSA/Questions/Remove Digit From Number to Maximize Result.md",
-    "Knowledge/DSA/Questions/Count Integers With Even Digit Sum Variant.md",
-    "Knowledge/DSA/Questions/Find Three Consecutive Integers That Sum to a Given Number.md",
-    "Knowledge/DSA/Questions/Count Equal and Divisible Pairs in an Array.md",
-    "Knowledge/DSA/Questions/Minimum Cost of Buying Candies With Discount.md",
     "Knowledge/System Design/LLD/Design Patterns/Creational Design Pattern",
     "Knowledge/System Design/LLD/Design Patterns",
     "Knowledge/System Design/Systems",
