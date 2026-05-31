@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/LLD/LLD Plan.md",
+                "file": "Knowledge/DSA/Questions/Reverse Pairs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLD Plan"
+              "title": "Reverse Pairs"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Reverse pair",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b336a3f2d6f62cd2",
@@ -178,8 +178,10 @@
   },
   "active": "c006c1c06efab5ba",
   "lastOpenFiles": [
-    "Knowledge/System Design/LLD/Study.md",
+    "Knowledge/DSA/Notes/Competitive Coding 10466e6a92c980d488c5e2c6540de5c0.md",
+    "Knowledge/DSA/Notes/Competitive Coding/Catalan Numbers.md",
     "Knowledge/System Design/LLD/LLD Plan.md",
+    "Knowledge/System Design/LLD/Study.md",
     "Knowledge/System Design/HLD/Study.md",
     "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
     "Knowledge/_Vault Guide.md",
@@ -201,8 +203,6 @@
     "Knowledge/DSA/Questions/Valid Sudoku.md",
     "Knowledge/DSA/Questions/Valid Parenthesis String.md",
     "Knowledge/DSA/Questions/Unique Paths.md",
-    "Knowledge/DSA/Questions/Unique Paths III.md",
-    "Knowledge/DSA/Questions/Unique Paths II.md",
-    "Knowledge/DSA/Questions/Unique Binary Search Trees.md"
+    "Knowledge/DSA/Questions/Unique Paths III.md"
   ]
 }
