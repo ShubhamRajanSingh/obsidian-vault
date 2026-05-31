@@ -81,5 +81,5 @@ class Solution {
 
 ## 🔗 Related
 
-- [[Median of a sorted array]]
+- [[Median of Two sorted array]]
 - [[Kth element in two sorted arrays]]
