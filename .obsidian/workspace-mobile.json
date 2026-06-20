@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
+                "file": "Knowledge/System Design/HLD/HLD-System-Design-Study-Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HLD_SDE2_Study_Plan"
+              "title": "HLD-System-Design-Study-Map"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "c006c1c06efab5ba",
   "lastOpenFiles": [
+    "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
     "Knowledge/DSA/Notes/Competitive Coding/Maths.md",
     "Knowledge/System Design/LLD/UML Class Diagrams.md",
     "Untitled",
@@ -186,7 +187,6 @@
     "Knowledge/System Design/LLD/LLD Plan.md",
     "Knowledge/System Design/LLD/Study.md",
     "Knowledge/System Design/HLD/Study.md",
-    "Knowledge/System Design/HLD/HLD_SDE2_Study_Plan.md",
     "Knowledge/_Vault Guide.md",
     "Knowledge/DSA/Questions/3Sum.md",
     "Knowledge/DSA/Notes/Competitive Coding/Maths.md",
@@ -204,8 +204,6 @@
     "Knowledge/DSA/Questions/Validate Stack Sequences.md",
     "Knowledge/DSA/Questions/Validate Binary Search Tree.md",
     "Knowledge/DSA/Questions/Valid Sudoku.md",
-    "Knowledge/DSA/Questions/Valid Parenthesis String.md",
-    "Knowledge/DSA/Questions/Unique Paths.md",
-    "Knowledge/DSA/Questions/Unique Paths III.md"
+    "Knowledge/DSA/Questions/Valid Parenthesis String.md"
   ]
 }
