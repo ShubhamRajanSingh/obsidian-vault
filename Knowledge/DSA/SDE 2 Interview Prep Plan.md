@@ -77,3 +77,23 @@ Keep the daily design question alternating between LLD and HLD by default, while
 - Night post: request a concise status update for each item and any blockers.
 - Update this note based only on explicit user check-ins or clear evidence from the check-in channel. When no check-in has arrived by the next morning, mark remaining items `Deferred — no update` and carry them forward.
 - All scheduled times are Asia/Kolkata (IST). Current proposed cadence: 8:00 AM and 9:00 PM daily.
+
+## Job search and company-specific preparation
+
+- Search active India-based or Remote-India roles at SDE 2 / Backend Engineer II / mid-level backend/platform levels that match my payment infrastructure, distributed systems, Redis Streams, database, security, APIs, Java/Haskell experience (roughly 3–6 years).
+- Hard compensation floor: **₹40 lakh annual base pay**, excluding bonus, equity, joining bonus, and other variable pay. If the job description omits salary, research role-, level-, and India-location-specific base pay from credible sources. Keep base and total compensation separate; include a researched estimate only when evidence supports the floor, state confidence and cite sources. Exclude roles where base pay cannot be verified as meeting the floor.
+- Post only currently open, not previously posted roles in Discord `#jobs`; assign each a stable ID (`JOB-YYYYMMDD-NN`) and include employer application link, role/location, experience fit, base-pay evidence, and sources.
+- To mark one for follow-up, reply in `#jobs` with `Interested: JOB-...` (include the exact ID). Research interview reports/questions for that company and role, cite sources, label anecdotal candidate reports as such, and add targeted practice items to the company-specific queue below.
+- The morning planner should incorporate active company-specific questions into the existing daily workload, replacing or adapting tasks rather than adding an unbounded extra load.
+
+### Interested-job interview prep queue
+
+| Job ID | Company / role | Research date | Reported question themes (with sources) | Prep status |
+|---|---|---|---|---|
+| — | — | — | — | — |
+
+### Posted job IDs
+
+| Job ID | Company / role | Location | Base-pay evidence and confidence | Posting date | Status |
+|---|---|---|---|---|---|
+| — | — | — | — | — | — |
