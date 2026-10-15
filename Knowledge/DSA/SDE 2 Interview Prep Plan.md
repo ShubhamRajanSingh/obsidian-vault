@@ -97,3 +97,11 @@ Keep the daily design question alternating between LLD and HLD by default, while
 | Job ID | Company / role | Location | Base-pay evidence and confidence | Posting date | Status |
 |---|---|---|---|---|---|
 | — | — | — | — | — | — |
+
+### Leads collected during the day (pending nightly digest)
+
+Collect verified, qualifying openings here as they are found; the 11:59 PM IST scout rechecks availability, deduplicates, posts new qualifying leads to `#jobs`, then changes their status to `Posted`.
+
+| Job ID | Company / role | Location | Application URL | Base-pay evidence, source, confidence | Collected (IST) | Status |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | — |
