@@ -104,4 +104,4 @@ Collect verified, qualifying openings here as they are found; the 11:59 PM IST s
 
 | Job ID | Company / role | Location | Application URL | Base-pay evidence, source, confidence | Collected (IST) | Status |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — |
+| JOB-20261019-01 | Amazon — Software Development Engineer II (Amazon Business pricing platform) | Hyderabad, India | https://www.amazon.jobs/applicant/jobs/10555781/apply | Posting requires 3+ years and backend software development; Java and distributed-systems experience align. Estimated base ₹41–49 LPA: Levels.fyi SDE II Hyderabad average base ₹48.56 LPA; Glassdoor Hyderabad SDE-2 base submissions include ₹41 LPA for 4–6 years [2][3]. Employer posting omits salary; medium confidence. Salary sources: [2] https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-ii/locations/greater-hyderabad-area ; [3] https://www.glassdoor.co.in/Salary/Amazon-SDE-2-Hyderabad-India-Salaries-E6036_DAO.htm?filter.jobTitleExact=SDE-2&selectedLocationString=M%2C1076 | 2026-10-19 13:04 IST | Pending nightly digest |
