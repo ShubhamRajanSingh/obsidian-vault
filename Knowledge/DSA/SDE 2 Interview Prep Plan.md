@@ -107,3 +107,18 @@ Collect verified, qualifying openings here as they are found; the 11:59 PM IST s
 | JOB-20261025-01 | Atlassian — Backend Software Engineer, II | Bengaluru or Remote-India | https://wac-cdn.atlassian.com/company/careers/details/25540 | Posting requires 4+ years backend, REST microservices, modern OOP language and database experience. Estimated base ₹45–50 LPA (medium confidence): Glassdoor Bengaluru SDE II base average ₹45 LPA, recent 4–6 YOE reports ₹46L and ₹52L; interviewexperiences.in Atlassian P40/SDE2 Bangalore page reports median base ₹46 LPA (9 reports). Excludes bonus/equity. Salary sources: https://www.glassdoor.co.in/Salary/Atlassian-Software-Development-Engineer-SDE-II-Bengaluru-Salaries-E115699_DAO.htm?filter.jobTitleExact=Software+Development+Engineer+%28SDE%29+II&selectedLocationString=C%2C2940587 ; https://interviewexperiences.in/company/atlassian/salary | 2026-10-25 13:00 IST | Pending nightly digest |
 | JOB-20261019-01 | Amazon — Software Development Engineer II (Amazon Business pricing platform) | Hyderabad, India | https://www.amazon.jobs/applicant/jobs/10555781/apply | Posting requires 3+ years and backend software development; Java and distributed-systems experience align. Estimated base ₹41–49 LPA: Levels.fyi SDE II Hyderabad average base ₹48.56 LPA; Glassdoor Hyderabad SDE-2 base submissions include ₹41 LPA for 4–6 years [2][3]. Employer posting omits salary; medium confidence. Salary sources: [2] https://www.levels.fyi/companies/amazon/salaries/software-engineer/levels/sde-ii/locations/greater-hyderabad-area ; [3] https://www.glassdoor.co.in/Salary/Amazon-SDE-2-Hyderabad-India-Salaries-E6036_DAO.htm?filter.jobTitleExact=SDE-2&selectedLocationString=M%2C1076 | 2026-10-19 13:04 IST | Pending nightly digest |
 | JOB-20261102-01 | Amazon — Software Development Engineer II (Amazon Business Operations) | Hyderabad, India | https://www.amazon.jobs/en/jobs/10556331/sde-ii-amazon-business-operations | Active official SDE II posting, posted 2026-09-22 and updated recently; 3+ years and backend/system design experience align. JD omits salary. Hyderabad SDE II base benchmark is about ₹49.1 LPA; two candidate-submitted offer reports provide corroborating but anecdotal evidence above ₹40 LPA. Confidence: medium.[19][6][7][13] | 2026-11-02 00:00 IST | Ready for nightly post |\n
+## Day 2 — 2026-11-11 (carryover; no status update received)
+
+Prior assigned work remains `Deferred — no update`; no completion or mastery is inferred. Carryover-only day to keep the backlog bounded. Work unaided in Java; state invariant, complexity, edge cases, and log time/confidence/errors.
+
+- [ ] DSA Medium — [[Longest Substring Without Repeating Characters]] (carryover): sliding-window invariant, complexity, and edge cases.
+- [ ] DSA Hard — [[Trapping Rainwater]] (carryover): derive the two-pointer invariant and compare with prefix/suffix maxima.
+- [ ] LLD — Parking lot (carryover): entities/interfaces, allocation, concurrency, extensibility, and tests.
+- [ ] Resume — Redis Streams (carryover): 2-minute system overview; validate assumptions and reported metrics.
+
+Encouragement: A clean unaided attempt today is progress; capture the exact point where you get stuck.
+
+| 2026-11-11 | Longest Substring Without Repeating Characters (carryover) | Deferred — no update | — | Reattempt unaided; log errors/confidence |
+| 2026-11-11 | Trapping Rainwater (carryover) | Deferred — no update | — | Reattempt unaided; log errors/confidence |
+| 2026-11-11 | Parking Lot LLD (carryover) | Deferred — no update | — | Reattempt; capture design trade-offs |
+| 2026-11-11 | Redis Streams resume drill (carryover) | Deferred — no update | — | Reattempt; validate assumptions/metrics |
