@@ -123,3 +123,20 @@ Encouragement: A clean unaided attempt today is progress; capture the exact poin
 | 2026-11-11 | Trapping Rainwater (carryover) | Deferred — no update | — | Reattempt unaided; log errors/confidence |
 | 2026-11-11 | Parking Lot LLD (carryover) | Deferred — no update | — | Reattempt; capture design trade-offs |
 | 2026-11-11 | Redis Streams resume drill (carryover) | Deferred — no update | — | Reattempt; validate assumptions/metrics |
+
+
+## Day 3 — 2026-11-22 (carryover; no status update received)
+
+The 2026-11-11 carryover remains unfinished: no explicit check-in was found. Keep today bounded and start with unaided attempts; do not infer mastery. The interested-job interview prep queue is empty.
+
+- [ ] DSA Medium — [[Longest Substring Without Repeating Characters]] (carryover): derive sliding-window invariant, implement in Java, and test duplicate/boundary cases.
+- [ ] DSA Hard — [[Trapping Rainwater]] (carryover): derive the two-pointer invariant; compare with prefix/suffix maxima and test edge cases.
+- [ ] LLD — Parking lot (carryover): define core entities/interfaces, allocation and concurrency strategy, extensibility, and tests.
+- [ ] Weekly resume drill — Redis Streams (carryover): give a 2-minute overview; identify assumptions and substantiate metrics.
+
+Encouragement: Focus on one clear invariant at a time; an honest error log makes the next attempt stronger.
+
+| 2026-11-22 | Longest Substring Without Repeating Characters (carryover) | Planned | — | Unaided attempt; log mistakes, confidence, and next review |
+| 2026-11-22 | Trapping Rainwater (carryover) | Planned | — | Unaided attempt; log mistakes, confidence, and next review |
+| 2026-11-22 | Parking Lot LLD (carryover) | Planned | — | Reattempt; capture design trade-offs |
+| 2026-11-22 | Redis Streams resume drill (carryover) | Planned | — | Validate assumptions/metrics; weekly resume item |
